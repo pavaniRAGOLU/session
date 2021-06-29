@@ -1,0 +1,27 @@
+
+
+
+
+                                              BRIDGELABZ
+
+                             
+
+
+
+11 june ---------introduction about operating system, linux
+
+12 june----------pwd,ls,cd,mkdir,rmdir,ls -l,ls -t,ls -n,ls -i,s,h,r,a,./,../,cd..
+
+14june-----------grep,touch,find,cat,cp,env
+
+15june-----------nano terminals(assignment),ps,kill,awk,piping concept
+
+16june-----------echo,read,-p,for loop
+
+17june-----------if,if else,nested if,logical (and,or,not)operators,while loop,sh -x
+
+18 june---------- -n use,case statement, ladder elseif,and its  uses
+
+19june-----------functions introduction,how to pass parameters,funcation declaration,function call, scope of global variables
+
+21june----------- 

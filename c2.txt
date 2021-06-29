@@ -1,0 +1,44 @@
+Basics to Code
+Here we will learn about all the important topics relating to coding and how these are important for a thorough understanding of the C Programming domain.
+
+Keywords and Identifiers
+Tokens in C
+Variables in C 
+Data Types in C
+Size of data types in C
+Operators in C
+Constants in C
+Storage Classes in C
+Auto Extern  Register Static Volatile
+Control Statements in C
+Escape sequence in C
+Loops in C
+enums in c
+Arrays in C
+Strings in C
+Structure in C
+Union in C
+Function in C
+Character set
+Boolean in C
+Call by reference
+Operators in C Programming
+Arithmetic Operators
+Relational Operators
+Logical Operators
+Bitwise Operators
+Assignment Operators
+Ternary Operators in C
+Size of Operators
+Conditional Operators
+Comma Operators
+Format Specifiers in C
+Difference between %d and %i
+Difference between %f, %e, %E and %g
+How to print% using printf
+How to print \ using printf
+How to print “” using printf
+What is the use of %p in C
+Library Functions in C
+pow() in C
+sqrt() in C
