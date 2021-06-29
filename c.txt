@@ -1,0 +1,44 @@
+                             
+
+                             C Interview questions with answers
+
+1. What is a pointer?
+A pointer is a special variable, which stores the memory address. The ‘ampersand’ denoted by ‘&’ and the ‘dereferencing’ factor denoted by ‘*’ are the necessities of pointers.
+ Ampersand in front of a variable gets its address and asterisk in front of a pointer gets its value.
+
+2. What is null pointer?
+Null pointer is a pointer which cannot point to anywhere in the program, but uninitialised pointer can point to anywhere in the users program. In C, if the pointer tried to access 0th location, 
+operating system kills the running program because operating system does not allow to access 0th value.
+
+3. Define function pointer?
+The function pointer is the pointer which accesses the address of a function. The running program occupies some memory space. Both the executable compiled program code and as well as 
+user variables works on function pointers.
+In the C, each function has an address in a code segment.
+
+4. What is volatile variable?
+Volatile variables are those variables which alters the default way of the program.
+The variable which do not change while compiling but are changeable during execution.
+
+5.  Difference between global and static variable?
+Static variables persist throughout the scope, but the lifespan is not throughout the program. Global variables persist throughout the scope of base blocks of memory that is their 
+lifespan is throughout the program.
+
+6.  What are the files automatically opened when C file is executed?
+Standard in, standard out, standard error (stdin, stdout, stderr) are the files which are automatically opened when C file is executed.
+
+7. Compare between array and pointer.
+Array can allocate variables but cannot reallocate those variable if required.  Whereas the pointer was assigned to allocate variables and they can also relocate and also are resizable.
+
+8. Define function prototype?
+The function prototype is the prototype which depends on the following:
+a. No. of input types
+b. No. of outputs which are to be returned
+
+9. Where the function pointers can be used?
+The function  pointers can be used when if/switch statements are present,in late binding(variation tables) and to implement call backs activities.
+
+10 What do you mean by #include<stdio.h>?
+In C, the hash function # tells the compiler that a statement should be sent to the C preprocessor. The include looks after the new files and replace the contents of 
+those files. and stdio.h will be valid only for the printf, scanf functions.
+
+
